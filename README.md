@@ -20,3 +20,5 @@ Clone the repository and run the analysis scripts in a Jupyter notebook or Pytho
 ## Future Plans
 - Add more datasets
 - Implement machine learning models to predict outcomes.
+- Create a web dashboard for data visualization.
+- Publish findings in a blog.
